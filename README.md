@@ -33,6 +33,24 @@ MapChat is a React Native app built with Expo that allows architecture enthusias
 npm install
 #For Testing
 npm install @testing-library/react-native babel-jest @babel/preset-env jest-expo react-test-renderer axios-mock-adapter expo-clipboard --save-dev
+
 #Start the dev server
+
 npm start & npx expo
 Open the Expo Go app and scan the QR code to run the app
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀ ▀ █ █▀█ ▄▄▄▄▄ █
+█ █   █ █   █▀ █▀ █ █   █ █
+█ █▄▄▄█ █▄█▀ ▄ █▄▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ █ █ ▀ █▄▄▄▄▄▄▄█
+█ ▄  ██▄▀ █ ▄ ▀▀▄▄▄██▄ ▄▀▄█
+█ ▄  ██▄ ▀  ▄▄ ▄█ █ ▀██▀███
+█▄▄█▄ █▄▄▀ ▄▀ ▄█ ▄█ ▄ █ █▀█
+█▀▄▄▀▄ ▄▀▀██ █▄▀█ ▀▀█▀▀█ ▀█
+███▄███▄▄ █ ██▄ ▄ ▄▄▄ ▀▄█▀█
+█ ▄▄▄▄▄ ██▀ ▀▄███ █▄█ █▄▄▄█
+█ █   █ █▀██▀ █▀▀▄▄   █▀▀ █
+█ █▄▄▄█ █  █▄█▀▄▀▄▀▄█▄▄ ▄██
+█▄▄▄▄▄▄▄█▄████▄█▄██████▄▄▄█
